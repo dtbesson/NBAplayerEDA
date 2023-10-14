@@ -1,2 +1,8 @@
 # NBAplayerEDA
-Basic cleaning and EDA on a dataset of NBA players in the 2014-15 season.
+## Introduction
+This is a quick project done at home to practise creating some different visualisations on univariate and multivariate datasets. There is also some basic data cleaning done at the start.
+
+## The Data
+The credit for this dataset goes to user Omri Goldstein on Kaggle. It can be found at this link https://www.kaggle.com/datasets/drgilermo/nba-players-stats-20142015 .
+
+The data is quite clean, but it has some null values for some of the players.
